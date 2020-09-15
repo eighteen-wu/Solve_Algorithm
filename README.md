@@ -1,2 +1,2 @@
 # Solve_LeetCode
-用于记录自己的LeetCode之路
+  这个项目用来点醒自己记得多刷LeetCode
