@@ -17,7 +17,7 @@
 ## 前序遍历
 ## 中序遍历
 ## 后序遍历
-  后序遍历 遍历顺序：左子树—————右子树——————根节点
+ 遍历顺序：左子树—————右子树——————根节点
  ```
  public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<Integer>();                   //初始化   返回值
