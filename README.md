@@ -1,5 +1,6 @@
-# Solve_LeetCode
-  这个项目用来点醒自己记得多刷LeetCode （在issues记录刷的题）                                                                                                                                 
+# Solve_algorithm
+  这个项目用来记录自己记得多刷LeetCode （在issues记录刷的题）和总结一下自己见到的算法
+
   **-_-**   看过评论
   
   **^_^**  自己考虑
